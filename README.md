@@ -205,7 +205,7 @@ average_transaction_value double
 
 ## 🔗 References
 
-- **GitHub Repo**: https://github.com/manish040596/azure-data-engineer---multi-source
+- **GitHub Repo**: (https://github.com/mantu0tech/Azure-data-engineer-pipeline.git)
 - **Customer API**: https://raw.githubusercontent.com/mantu0tech/Azure-data-engineer-pipeline/refs/heads/main/customers.json
 - **Power BI Download**: https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
